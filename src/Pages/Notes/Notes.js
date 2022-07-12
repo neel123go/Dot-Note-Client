@@ -1,13 +1,14 @@
 import React from 'react';
 import Header from '../Shared/Header/Header';
+import Sidebar from '../Shared/Sidebar/Sidebar';
 
-const Home = () => {
+const Notes = () => {
     return (
         <div>
             <Header></Header>
-            <h2>This is Banner</h2>
+            <Sidebar></Sidebar>
         </div>
     );
 };
 
-export default Home;
+export default Notes;

@@ -14,7 +14,7 @@ module.exports = {
           "textColor": "#455054",
           "base-100": "#E8E5EB",
           "success": "#55C595",
-          "error": "#E36B77",
+          "error": "#dc2626",
         },
       },
     ],
