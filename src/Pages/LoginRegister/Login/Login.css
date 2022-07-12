@@ -1,0 +1,10 @@
+.input-field {
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid #a8a29e;
+}
+
+.input-field:focus {
+    border: 1px solid #5f5b58;
+    outline: none;
+}
